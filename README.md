@@ -1,4 +1,4 @@
-# Configure WSL Development on a Windows Machine
+# Configure Development under WSL on a Windows Machine
 
 This guide will help you configure a Windows 11 machine with WSL 2, Docker Desktop and other tools
 for development.
