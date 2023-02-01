@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "bierner.markdown-mermaid",
+        "DavidAnson.vscode-markdownlint",
+        "GitHub.github-vscode-theme",
+        "bierner.markdown-preview-github-styles",
+        "humao.rest-client",
+        "marvhen.reflow-markdown",
+        "mhutchie.git-graph",
+        "ms-vscode.powershell",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vsliveshare.vsliveshare",
+        "vscode-icons-team.vscode-icons",
+        "vscodevim.vim",
+        "yzhang.markdown-all-in-one"
+    ]
+}
